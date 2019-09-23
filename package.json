@@ -33,7 +33,7 @@
     "react-native-touchable-scale": "^2.0.0",
     "react-native-web": "^0.11.4",
     "react-navigation": "^3.11.1",
-    "rne-listitem-web": "gist:4a1da48acb977660e8665bae5262600b"
+    "rne-listitem-web": "liudonghua123/rne-listitem-web"
   },
   "devDependencies": {
     "@expo/webpack-config": "^0.7.3",
